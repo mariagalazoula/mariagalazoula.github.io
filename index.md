@@ -3,7 +3,7 @@
 I was born in Greece and I am now a PhD student in the [University of Leeds](https://www.leeds.ac.uk/).
 
 
-[Poster.pdf]
+![Poster.pdf]
 
 ## Research interests
 
