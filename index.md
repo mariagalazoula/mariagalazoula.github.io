@@ -1,9 +1,8 @@
 ## About me
 
-I was born in Greece and I am now a PhD student in the [University of Leeds](https://www.leeds.ac.uk/).
+My name is Maria Galazoula and I am currently based in Leeds. I am an Integrated MSc and PhD student in the Centre for Doctoral Training in Data Analytics and Society(https://datacdt.org/)  in the [University of Leeds](https://www.leeds.ac.uk/).
 
 
-![Poster.pdf]
 
 ## Research interests
 
