@@ -18,5 +18,5 @@ After careful consideration, I applied for one of the Data Science Internships p
 
 ## Links to projects 
 
-- [Life Info Survey](https://lida.leeds.ac.uk/research/lifeinfo/)
+- [LifeInfo Survey](https://lida.leeds.ac.uk/research/lifeinfo/)
 - [GEOG5995M Programming for Social Science: Core Skills] (LINK HERE)
