@@ -20,3 +20,5 @@ After careful consideration, I applied for one of the Data Science Internships p
 
 - [LifeInfo Survey](https://lida.leeds.ac.uk/research/lifeinfo/)
 - [GEOG5995M Programming for Social Science: Core Skills - Assignment 1](https://github.com/mariagalazoula/Programming-for-Social-Sciences)
+
+![Image of University of Leeds logo](https://github.com/mariagalazoula/mariagalazoula.github.io/blob/master/Uni_of_Leeds.jpg)
